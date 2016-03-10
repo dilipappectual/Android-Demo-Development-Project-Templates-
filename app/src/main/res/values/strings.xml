@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project Template</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <string name="close">Close</string>
+    <string name="loginactivity_subtitle">Login Page</string>
+    <string name="demo_fragment">    DUMMY FRAGMENT (this is default  fragment when your very first time main activity will iniitialize, by navigation link you can create more fragment like Page 1, Page 2... )
+
+
+
+</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:id="@+id/mainmenu"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingTop="35dp"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:background="@android:color/white"
+        android:gravity="center_vertical|center_horizontal">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            android:text="@string/demo_fragment"/>
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

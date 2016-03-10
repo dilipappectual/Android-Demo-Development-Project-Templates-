@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="navdrawer_tutorials">PAGES</string>
+    <string name="navdrawer_listdetail">PAGE 2</string>
+    <string name="navdrawer_airport">PAGE 3</string>
+    <string name="navdrawer_simplemap">PAGE 4</string>
+    <string name="navdrawer_aroundme">PAGE 5</string>
+    <string name="navdrawer_tutorial">PAGE 1</string>
+
+    <string name="navdrawer_logout">Logout</string>
+
+    <string name="navdrawer_settings">Settings</string>
+    <string name="navdrawer_rating">Rate this app</string>
+    <string name="navdrawer_donations">Donate</string>
+    <string name="navdrawer_changelog">ChangeLog</string>
+    <string name="navdrawer_eula">Eula</string>
+
+    <string name="navdrawer_header_title">Project Template</string>
+    <string name="navdrawer_header_subtitle">sub title</string>
+    <string name="navdrawer_header_signin">Sign in</string>
+
+</resources>
